@@ -14,7 +14,6 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
     <td>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
   </tr>
   <tr>
@@ -39,6 +38,7 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
 ## 🚀 No meu radar (Estudando atualmente)
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 ## 📊 Estatísticas do GitHub
 
