@@ -1,18 +1,21 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=O-Goulart&repo=luzcameracinema&theme=dracula" alt="Terminal Card" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=%24+cat+welcome.txt;Seja+bem-vindo!;Meu+nome+%C3%A9+Otoniel+Goulart." alt="Banner Terminal Dinâmico" />
 </p>
+
+Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fundamentos acadêmicos no desenvolvimento de softwares eficientes, práticos e bem estruturados. Estou sempre em busca de novos desafios técnicos e projetos práticos para evoluir como desenvolvedor.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode](https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode)" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode" alt="Minhas Tecnologias" />
 </p>
 
 ## 🚀 No meu radar (Estudando atualmente)
 
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=py,mysql](https://skillicons.dev/icons?i=py,mysql)" alt="Estudando" />
+  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Estudando Atualmente" />
 </p>
 
 ---
@@ -20,13 +23,13 @@
 ## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false](https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false)" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false" width="100%" alt="Gráfico de Atividade de Commits" />
 </p>
 
 ---
 
 ## ✉️ Vamos nos conectar?
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para projetos, estudos ou colaborações!
 
-**Email Oficial:** [o.goulart14@gmail.com](mailto:o.goulart14@gmail.com)
+**📩 Email Oficial:** [o.goulart14@gmail.com](mailto:o.goulart14@gmail.com)
