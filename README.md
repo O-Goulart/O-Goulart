@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=BD93F9&background=282A36&center=true&vCenter=true&width=800&height=120&lines=Seja+bem-vindo!;Meu+nome+%C3%A9+Otoniel" alt="Banner Dinâmico" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=BD93F9&background=282A36&center=true&vCenter=true&width=800&height=120&lines=Seja+bem-vindo!;Meu+nome+%C3%A9+Otoniel." alt="Banner Dinâmico" />
 </p>
 
-Estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fundamentos acadêmicos no desenvolvimento de softwares eficientes, práticos e bem estruturados. Estou sempre em busca de novos desafios técnicos e projetos práticos para evoluir como desenvolvedor.
+Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fundamentos acadêmicos no desenvolvimento de softwares eficientes, práticos e bem estruturados. Estou sempre em busca de novos desafios técnicos e projetos práticos para evoluir como desenvolvedor.
 
 ---
 
