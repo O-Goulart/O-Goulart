@@ -9,13 +9,20 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode&theme=light" alt="Minhas Tecnologias" />
+  <a href="https://devdocs.io/c/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=light" alt="C" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /></a>
 </p>
 
 ## 🚀 No meu radar (Estudando atualmente)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,mysql&theme=light" alt="Estudando Atualmente" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /></a>
 </p>
 
 ---
