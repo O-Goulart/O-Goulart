@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
   <tr>
     <td><strong>Linguagens & Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </td>
   </tr>
@@ -37,13 +37,16 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
 
 ## 🚀 No meu radar (Estudando atualmente)
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-## 📊 Estatísticas do GitHub
+---
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=O-Goulart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=O-Goulart&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" />
+## 📊 Estatísticas e Atividade no GitHub
+
+Aqui você pode acompanhar o meu ritmo de desenvolvimento e commits de forma inteiramente dinâmica:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false" width="100%" alt="Gráfico de Atividade de Commits" />
 </p>
 
 ---
@@ -52,6 +55,4 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para projetos, estudos ou colaborações!
 
-[![E-mail](https://img.shields.io/badge/Email-o.goulart14@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:o.goulart14@gmail.com)
-
-
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.goulart14@gmail.com)
