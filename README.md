@@ -9,13 +9,13 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode&theme=light" alt="Minhas Tecnologias" />
 </p>
 
 ## 🚀 No meu radar (Estudando atualmente)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Estudando Atualmente" />
+  <img src="https://skillicons.dev/icons?i=py,mysql&theme=light" alt="Estudando Atualmente" />
 </p>
 
 ---
