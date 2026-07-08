@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Otoniel%20Goulart&fontSize=50&fontColor=fff&animation=fadeIn" alt="Banner Otoniel Goulart" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=BD93F9&background=282A36&center=true&vCenter=true&width=800&height=120&lines=Seja+bem-vindo!;Meu+nome+%C3%A9+Otoniel" alt="Banner Dinâmico" />
 </p>
-
-### Olá, seja bem-vindo! 👋
 
 Estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fundamentos acadêmicos no desenvolvimento de softwares eficientes, práticos e bem estruturados. Estou sempre em busca de novos desafios técnicos e projetos práticos para evoluir como desenvolvedor.
 
