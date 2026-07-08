@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=%24+cat+welcome.txt;Seja+bem-vindo!;Meu+nome+%C3%A9+Otoniel+Goulart." alt="Banner Terminal Dinâmico" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=6EE7B7&center=true&vCenter=true&width=650&height=100&lines=%2F++Bem%2C+Vindo%21+%5C;%2F++Meu+nome+é+Otoniel.+%5C;$++cat+welcome.txt" alt="Terminal Hello World" />
 </p>
 
 Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fundamentos acadêmicos no desenvolvimento de softwares eficientes, práticos e bem estruturados. Estou sempre em busca de novos desafios técnicos e projetos práticos para evoluir como desenvolvedor.
