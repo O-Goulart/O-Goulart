@@ -1,59 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=70&lines=Seja+bem-vindo!;Meu+nome+%C3%A9+Otoniel." alt="Banner Dinâmico Clean" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=O-Goulart&repo=luzcameracinema&theme=dracula" alt="Terminal Card" />
 </p>
-
-Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fundamentos acadêmicos no desenvolvimento de softwares eficientes, práticos e bem estruturados. Estou sempre em busca de novos desafios técnicos e projetos práticos para evoluir como desenvolvedor.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<table>
-  <tr>
-    < align="center"><strong>Linguagens & Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Desenvolvimento Web</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Ferramentas</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </td>
-  </tr>
-</table>
-
----
+<p align="left">
+  <img src="[https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode](https://skillicons.dev/icons?i=c,java,html,css,js,git,vscode)" alt="Minhas Tecnologias" />
+</p>
 
 ## 🚀 No meu radar (Estudando atualmente)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="[https://skillicons.dev/icons?i=py,mysql](https://skillicons.dev/icons?i=py,mysql)" alt="Estudando" />
 </p>
 
 ---
 
-## 📊 Estatísticas e Atividade no GitHub
+## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false" width="100%" alt="Gráfico de Atividade de Commits" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false](https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false)" width="100%" alt="Gráfico de Atividade" />
 </p>
 
 ---
 
 ## ✉️ Vamos nos conectar?
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para projetos, estudos ou colaborações!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
-[![E-mail](https://img.shields.io/badge/o.goulart14@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.goulart14@gmail.com)
+**Email Oficial:** [o.goulart14@gmail.com](mailto:o.goulart14@gmail.com)
