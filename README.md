@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=6EE7B7&center=true&vCenter=true&width=650&height=100&lines=%2F++Bem%2C+Vindo%21+%5C;%2F++Meu+nome+é+Otoniel.+%5C;$++cat+welcome.txt" alt="Terminal Hello World" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=6EE7B7&center=true&vCenter=true&width=650&height=100&lines=%2F++Hello%2C+World%21+%5C;%2F++Bem-vindo+ao+perfil+do+Otoniel.+%5C;$++cat+welcome.txt" alt="Terminal Hello World" />
 </p>
 
 Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fundamentos acadêmicos no desenvolvimento de softwares eficientes, práticos e bem estruturados. Estou sempre em busca de novos desafios técnicos e projetos práticos para evoluir como desenvolvedor.
