@@ -27,14 +27,6 @@ Sou estudante de Ciência da Computação na **PUC Minas**. Busco aplicar os fun
 
 ---
 
-## 📊 Estatísticas e Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=O-Goulart&theme=dracula&area=true&scrolling=false" width="100%" alt="Gráfico de Atividade de Commits" />
-</p>
-
----
-
 ## ✉️ Vamos nos conectar?
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para projetos, estudos ou colaborações!
